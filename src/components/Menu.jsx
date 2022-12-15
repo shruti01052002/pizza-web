@@ -14,9 +14,8 @@ const Menu = () => {
             <h3>The Pizza Menu</h3>
             <h1>CHICAGO THIN CRUST</h1>
             <p>
-              Investigationes demonstraverunt lectores legere me lius quod ii
-              legunt saepius. Claritas est etiam processus dynaus, quise
-              sequitur mutationem consuetudium lectorum.
+            It features cracker-thin crust that's usually square-cut 
+            and often loaded with fennel-heavy sausage. Unlike New York-style pizza.
             </p>
             <div className="about__btn">
               <a href="" className="btn btn-smart">

@@ -10,8 +10,7 @@ const Header = () => {
             <h3>Pizza Devlivery</h3>
             <h1>MAESTRO PIZINNI</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-              minus ut mollitia error molestiae quia.
+              Taste the Delicious Pizzas and feel heaven in your mouth. 
             </p>
             <div className="banner__btn">
               <a href="" className="btn btn-smart">

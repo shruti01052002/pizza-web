@@ -9,9 +9,7 @@ const About = () => {
             <h3>About Us</h3>
             <h1>WELCOME TO MAESTRO PIZZINI</h1>
             <p>
-              Investigationes demonstraverunt lectores legere me lius quod ii
-              legunt saepius. Claritas est etiam processus dynaus, quise
-              sequitur mutationem consuetudium lectorum.
+              We offer a variety of Pizzas which is a perfect place to fulfill your cravings.
             </p>
             <div className="about__btn">
               <a href="About()" className="btn btn-smart">

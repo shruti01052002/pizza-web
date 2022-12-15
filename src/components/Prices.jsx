@@ -12,9 +12,9 @@ const Prices = () => {
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
-                Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
-                ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
-                risus, vel hendrerit dui tempor in.
+              Here is the archetype of a thin-crust pizza pie, 
+              a pizza margherita adorned simply in the colors of the Italian flag: 
+              green from basil, white from mozzarella, red from tomato sauce
               </p>
               <p className="price_rs">$50.00</p>
             </div>
@@ -27,9 +27,9 @@ const Prices = () => {
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
-                Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
-                ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
-                risus, vel hendrerit dui tempor in.
+              Here is the archetype of a thin-crust pizza pie, 
+              a pizza margherita adorned simply in the colors of the Italian flag: 
+              green from basil, white from mozzarella, red from tomato sauce
               </p>
               <p className="price_rs">$25.00</p>
             </div>
@@ -42,9 +42,9 @@ const Prices = () => {
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
-                Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
-                ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
-                risus, vel hendrerit dui tempor in.
+              Here is the archetype of a thin-crust pizza pie, 
+              a pizza margherita adorned simply in the colors of the Italian flag: 
+              green from basil, white from mozzarella, red from tomato sauce
               </p>
               <p className="price_rs">$150.00</p>
             </div>
@@ -57,9 +57,9 @@ const Prices = () => {
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
-                Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
-                ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
-                risus, vel hendrerit dui tempor in.
+              Here is the archetype of a thin-crust pizza pie, 
+              a pizza margherita adorned simply in the colors of the Italian flag: 
+              green from basil, white from mozzarella, red from tomato sauce
               </p>
               <p className="price_rs">$22.00</p>
             </div>
@@ -72,9 +72,9 @@ const Prices = () => {
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
-                Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
-                ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
-                risus, vel hendrerit dui tempor in.
+              Here is the archetype of a thin-crust pizza pie, 
+              a pizza margherita adorned simply in the colors of the Italian flag: 
+              green from basil, white from mozzarella, red from tomato sauce
               </p>
               <p className="price_rs">$22.00</p>
             </div>
@@ -87,9 +87,9 @@ const Prices = () => {
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
-                Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
-                ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
-                risus, vel hendrerit dui tempor in.
+              Here is the archetype of a thin-crust pizza pie, 
+              a pizza margherita adorned simply in the colors of the Italian flag: 
+              green from basil, white from mozzarella, red from tomato sauce
               </p>
               <p className="price_rs">$22.00</p>
             </div>
